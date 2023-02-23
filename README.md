@@ -86,3 +86,5 @@ I will come back to this project a bit later after I work on something else
 I appreciate any and all roasting of the code so I can improve.
 
 Do what you want with the code, but credit would be much appreciated and if you have any trouble with ISG, please contact me over discord.
+nice good
+jop
